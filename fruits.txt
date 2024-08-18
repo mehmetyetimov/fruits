@@ -1,3 +1,4 @@
+fruits and vegetables
 apple 
 banana 
 apricot 
@@ -6,6 +7,6 @@ strawberry
 berry 
 tomatoes 
 carrot 
-
+jelepano 
 
 these are fruits on my plates
