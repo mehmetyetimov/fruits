@@ -5,7 +5,7 @@ chery
 strawberry 
 berry 
 tomatoes 
-
+carrot 
 
 
 these are fruits on my plates
